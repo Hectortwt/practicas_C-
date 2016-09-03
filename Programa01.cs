@@ -13,8 +13,8 @@ namespace Consola_HolaMundo
     {
         static void Main(string[] args)
         {
-            Console.Write("¡Hola mundo!");
-            Console.ReadKey();
+            Console.Write("¡Hola mundo!");// esta linea escribe un texto en la consola
+            Console.ReadKey();// permite que la consola no se cierre
 
         }
     }
